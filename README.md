@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-<h3 align="left">Connect with me: khaled39ab@gmail.com</h3>
+<h3 align="center">Connect with me: khaled39ab@gmail.com</h3>
 <p align="left">
 </p>
 
